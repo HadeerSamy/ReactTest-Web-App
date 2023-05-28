@@ -1,0 +1,131 @@
+ body {
+background-color: #e8e8e8;
+  
+  }
+
+.wholeForm{
+
+    position: relative;
+    text-align: center;
+    margin: auto;
+    width:600px;
+    height:600px;
+
+    position: relative;
+    left:170px
+}
+
+.wholeForm Button{
+    margin:0  auto;
+    position: absolute;
+
+}  
+
+.wholeForm form{
+  text-align: left;
+}
+.wholeForm form button{
+  text-align: center;
+  position: relative;
+  left:130px
+}
+
+.radio-button-label {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #e2e2e2;
+    border: none;
+    border-radius: 5px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: 0.25s;
+    width:500px
+  }
+  .radio-button-label:hover{
+    background-color:#F8C4B4;
+  }
+  
+  input[type="radio"] {
+    display: none;
+  }
+
+  .colorChoice{
+    background-color: #FF8787;
+    color:white
+  }
+
+  .nav {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #E5EBB2;
+    /* height: 100px; Adjust the height as needed */
+  }
+  
+  h1 {
+    text-align: center;
+  }
+  
+  .question{
+    margin-left: 40px;
+  }
+  
+  button{
+    background-color: #BCE29E;
+    border:0px;
+    padding:10px;
+    border-radius: 10px;
+  }
+
+  button:hover{
+    background-color: #547d35;
+
+  }
+
+
+.middle{
+  text-align: center;
+
+}
+
+.Happy h3{
+  color:  #547d35;
+}
+.middle p{
+  font-size: 12px;
+  color: #0027d3;
+  text-decoration: underline;
+  
+}
+.middle img{
+width:450px;
+height:450px
+  
+}
+
+.middle p:hover{
+  cursor: pointer;
+}
+
+.Sad h3{
+  color:  #a60000;
+}
+
+/* img{
+  display: block;
+} */
+
+form{
+  text-align: center;
+  position: relative;
+  top:150px
+}
+textarea{
+  width:250px;
+  border-radius: 20px;
+}
+
+.thankyou{
+  text-align: center;
+}

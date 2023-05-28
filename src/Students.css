@@ -1,0 +1,26 @@
+/* th{
+    padding-right: 25px;
+    color:rgb(83, 7, 7);
+    font-size: 20px;
+
+} */
+/* table{
+    text-align: center;
+} */
+/* body{
+    text-align: center;
+} */
+button:hover{
+    color: white;
+    background-color: black;
+}
+
+.cards{
+    width:300px;
+    display: inline-block;
+    margin-right: 20px;
+}
+
+.linkNav{
+    margin-right: 30px;
+}
